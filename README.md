@@ -7,10 +7,10 @@ Open Communication-System to improve your business By taking advice from many sp
 
 ### 1- A platform that contains experts in different fields And 
  - There are many types of Counseling : 
- - 1- medical 
- - 2- administrative 
- - 3- family 
- - 4- psychological 
+ - -  1- medical 
+ - - 2- administrative 
+ - - 3- family 
+ - - 4- psychological 
  
 ### 2- AnyOne Can SignUp as Expert or Normal-User 
 
