@@ -5,7 +5,7 @@ Open Communication-System to improve your business By taking advice from many sp
 
 ## This Project provides you the following :
 
-### 1- A platform that contains experts in different fields : 
+### 1- Open platform for experts from different fields : 
 -   medical 
 -   administrative 
 -   family 
