@@ -13,12 +13,12 @@ Open Communication-System to improve your business By taking advice from many sp
  
 ### 2- AnyOne Can SignUp as Expert or Normal-User 
 
-### 4- Rating system:
+### 3- Rating system:
  - A User can rate Expert , on a scale from 1 to 5.
 
-### 5- The ability of selecting favorite experts .
+### 4- The ability of selecting favorite experts .
 
-### 6- Built-in payment system , So and every expert have wage for its consulting   
+### 5- Built-in payment system , So and every expert have wage for its consulting   
 
 <hr>
 
